@@ -1,0 +1,130 @@
+body {
+    background-color: #faebd7;
+    margin: 0 0;
+}
+
+
+
+.up {
+    background-color: white;
+    height: 80px;
+}
+
+.bar {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100px;
+    height: 24px;
+}
+
+.hamb {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url("https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+.menu {
+    position: absolute;
+    display: inline-block;
+    top: 4px;
+    left: 32px;
+    font-size: 15px;
+    height: 20px;
+    
+}
+
+.links {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.link {
+    
+    color: gray;
+}
+
+.order {
+    border-color: #ff4d4d;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 25px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 6px 20px;
+    color: black;
+}
+
+
+
+.down {
+    font-family: 'Source sans pro', 'Verdana';
+    background-color: white;
+    padding: 130px 0px;
+}
+
+.main-title {
+    font-family: 'Source sans pro', 'Verdana';
+    text-align: center;
+    font-size: 50px;
+}
+
+.mini-title {
+    font-family: 'Source sans pro', 'Verdana';
+    text-align: center;
+    font-size: 22px;
+}
+
+
+
+.post {
+    font-family: 'Source sans pro', 'Verdana';
+    position: relative;
+    padding-top: 50px;
+}
+
+.date {
+    font-family: 'Source sans pro', 'Verdana';
+    font-size: 13px;
+    text-align: center;
+    padding: 15px;
+    color: gray;
+}
+
+.post-title {
+    font-family: 'Source sans pro' , 'Verdana';
+    text-align: center;
+    padding: 0 400px;
+}
+
+.photo {
+    margin: 30px auto;
+    background-position: center center;
+    background-image: url("http://zeendo.com/info/wp-content/uploads/2013/01/mobilet1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 700px;
+    height: 300px;
+}
+
+.main-text {
+    font-family: 'Source sans pro' , 'Verdana';
+    text-align: center;
+    padding: 0 400px;
+}
+
+.dot {
+    font-family: 'Source sans pro';
+    text-align: center;
+    color: darkgrey;
+    font-size: 50px;
+    letter-spacing: 5px;
+    margin-bottom: 30px;
+}

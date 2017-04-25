@@ -1,0 +1,54 @@
+body {
+    background-color: #cccccc;
+}
+
+.card {
+    margin: 40px 500px;
+    width: 300px;
+    box-shadow: 0px 30px 30px -10px rgba(166, 166, 166,1);
+    background-color: #f2f2f2;
+}
+
+.photo {
+    height: 280px;
+    background-image: url('https://www.36exp.co.uk/wp/wp-content/uploads/2014/10/NIGHT-14.jpg');
+    background-position: center center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.content {
+    text-align: center;
+    height: 300px;
+    margin: 15px 15px;
+}
+
+.first-text {
+    font-family: 'Lora', 'verdana';
+    font-size: 16px;
+    font-weight: 750;
+    color: #b3b3b3;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.main-title {
+    font-family: 'Lora', 'verdana';
+    font-size: 30px;
+}
+
+.circle {
+    margin: 10px 0px;
+    height: 30px;
+    background-image: url('kruzic.png');
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.main-text {
+    font-family: 'Lora', 'verdana';
+    padding: 0px 10px;
+    font-size: 16px;
+    color: #b3b3b3;
+}
